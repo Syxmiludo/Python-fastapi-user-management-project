@@ -1,3 +1,21 @@
-.env
+# Python cache
 __pycache__/
-*.py
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings
+.vscode/
+
+# System files
+AppData/
+*.exe
+*.log
+*.dat
+*.TM.blf
+*.TMContainer*
+
+# OS generated files
+Thumbs.db
+.DS_Store
+Desktop.ini
